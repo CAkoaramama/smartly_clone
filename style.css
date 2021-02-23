@@ -1,11 +1,6 @@
 @charset "UTF-8"
 /* whole page---------------------- */
-html {font-size: 100%;}
-
-body {
-	<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
-}
+ 
 .header-container {
   margin: 0 130px;
 }
@@ -68,7 +63,7 @@ main-nav a {
   margin: 60px;
 }
 .h2-wrapper {
-  font-size: 25px
+  font-size: 25px;
   color: #626262;
   padding: 0 5%;
   margin: 50px;
